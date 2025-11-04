@@ -1,2 +1,35 @@
-# amazon-ecommerce-analytics
-End-to-End Amazon E-Commerce Analytics project using Python, My SQL, Power BI — uncovering customer behaviour, sales trends and product insights.
+# 🛒 Amazon E-commerce Analytics Capstone Project
+
+### End-to-end project analyzing Amazon E-commerce data using Python, MySQL, and Power BI — uncovering customer behavior, sales trends, and feedback insights.
+
+---
+
+## ⚙️ Project Workflow
+1️⃣ **Python (Pandas):** Data extraction & cleaning (6 relational tables).  
+2️⃣ **MySQL:** KPI and analytical insights (sales, revenue, refunds, customer retention).  
+3️⃣ **Power BI:** 13-page interactive dashboard for business decision support.
+
+---
+
+## 📊 Key Highlights
+👥 **Customers:** Top 3 cities, most active age group, repeat customer rate, top spenders  
+📦 **Orders:** Monthly trends, city-wise revenue, premium order share  
+🛍️ **Products:** Top-performing products, most refunded items, average delivery ratings  
+💳 **Transactions:** Payment mode share, city-wise preference, refund trends  
+🔁 **Refunds:** Common return reasons, highly returned products, monthly return trends  
+⭐ **Feedback:** Rating trends, top & lowest-rated products
+
+---
+
+## 🖥️ Power BI Dashboards
+Below are 13 Power BI pages (1 overview + 12 detailed reports):
+
+| Overview | Customers | Orders | Products |
+|-----------|-----------|--------|-----------|
+| ![](visuals/overview_dashboard.png) | ![](visuals/customer_report_pg1.png) | ![](visuals/orders_report_pg1.png) | ![](visuals/products_report_pg1.png) |
+
+| Transactions | Refunds | Feedback |
+|---------------|----------|----------|
+| ![](visuals/transactions_report_pg1.png) | ![](visuals/refunds_report_pg1.png) | ![](visuals/feedback_report_pg1.png) |
+
+---
