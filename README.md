@@ -21,15 +21,47 @@
 
 ---
 
-## 🖥️ Power BI Dashboards
-Below are 13 Power BI pages (1 overview + 12 detailed reports):
+## 🖥️ Power BI Dashboard Snapshots
 
-| Overview | Customers | Orders | Products |
-|-----------|-----------|--------|-----------|
-| ![](visuals/dashboard_overview.png) | ![](visuals/customer_report_1.png) | ![](visuals/orders_report_1.png) | ![](visuals/products_report_1.png) |
-
-| Transactions | Refunds | Feedback |
-|---------------|----------|----------|
-| ![](visuals/transaction_report_1.png) | ![](visuals/refund_report_1.png) | ![](visuals/feedback_report_1.png) |
+Below are some of the key pages from my 13-page Power BI report.  
+Each page focuses on a different business area of Amazon’s E-commerce operations.
 
 ---
+
+### 📊 Pic 1: Overview Dashboard  
+![](visuals/overview_dashboard.png)
+
+---
+
+### 👥 Pic 2: Customer Report  
+![](visuals/customer_report_pg1.png)
+
+---
+
+### 📦 Pic 3: Orders Report  
+![](visuals/orders_report_pg1.png)
+
+---
+
+### 🛍️ Pic 4: Products Report  
+![](visuals/products_report_pg1.png)
+
+---
+
+### 💳 Pic 5: Transactions Report  
+![](visuals/transactions_report_pg1.png)
+
+---
+
+### 🔁 Pic 6: Refunds Report  
+![](visuals/refunds_report_pg1.png)
+
+---
+
+### ⭐ Pic 7: Feedback Report  
+![](visuals/feedback_report_pg1.png)
+
+---
+
+> 📁 *Note: The `visuals` folder contains all 13 Power BI pages (1 overview + 12 detailed reports). Only the key pages are shown above for preview.*
+
