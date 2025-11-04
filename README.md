@@ -29,37 +29,37 @@ Each page focuses on a different business area of Amazon’s E-commerce operatio
 ---
 
 ### 📊 Pic 1: Overview Dashboard  
-![](visuals/overview_dashboard.png)
+![](visuals/Dashboard_overview.png)
 
 ---
 
 ### 👥 Pic 2: Customer Report  
-![](visuals/customer_report_pg1.png)
+![](visuals/customers_report_1.png)
 
 ---
 
 ### 📦 Pic 3: Orders Report  
-![](visuals/orders_report_pg1.png)
+![](visuals/orders_report_1.png)
 
 ---
 
 ### 🛍️ Pic 4: Products Report  
-![](visuals/products_report_pg1.png)
+![](visuals/products_report_1.png)
 
 ---
 
 ### 💳 Pic 5: Transactions Report  
-![](visuals/transactions_report_pg1.png)
+![](visuals/transaction_report_1.png)
 
 ---
 
 ### 🔁 Pic 6: Refunds Report  
-![](visuals/refunds_report_pg1.png)
+![](visuals/refund_report_1.png)
 
 ---
 
 ### ⭐ Pic 7: Feedback Report  
-![](visuals/feedback_report_pg1.png)
+![](visuals/feedback_report_1.png)
 
 ---
 
