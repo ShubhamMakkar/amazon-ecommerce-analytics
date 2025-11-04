@@ -49,7 +49,7 @@ Each page focuses on a different business area of Amazon’s E-commerce operatio
 ---
 
 ### 💳 Transactions Report  
-![](visuals/transactions_report_1.png)
+![](visuals/transaction_report_1.png)
 
 ---
 
