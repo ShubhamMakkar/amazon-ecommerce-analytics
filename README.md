@@ -26,10 +26,10 @@ Below are 13 Power BI pages (1 overview + 12 detailed reports):
 
 | Overview | Customers | Orders | Products |
 |-----------|-----------|--------|-----------|
-| ![](visuals/overview_dashboard.png) | ![](visuals/customer_report_pg1.png) | ![](visuals/orders_report_pg1.png) | ![](visuals/products_report_pg1.png) |
+| ![](visuals/dashboard_overview.png) | ![](visuals/customer_report_1.png) | ![](visuals/orders_report_1.png) | ![](visuals/products_report_1.png) |
 
 | Transactions | Refunds | Feedback |
 |---------------|----------|----------|
-| ![](visuals/transactions_report_pg1.png) | ![](visuals/refunds_report_pg1.png) | ![](visuals/feedback_report_pg1.png) |
+| ![](visuals/transaction_report_1.png) | ![](visuals/refund_report_1.png) | ![](visuals/feedback_report_1.png) |
 
 ---
